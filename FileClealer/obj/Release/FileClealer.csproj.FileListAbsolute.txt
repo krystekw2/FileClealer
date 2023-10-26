@@ -1,0 +1,14 @@
+C:\Projekty\C#\FileClealer\FileClealer\bin\Release\FileClealer.exe.config
+C:\Projekty\C#\FileClealer\FileClealer\bin\Release\FileClealer.exe
+C:\Projekty\C#\FileClealer\FileClealer\bin\Release\FileClealer.pdb
+C:\Projekty\C#\FileClealer\FileClealer\bin\Release\Newtonsoft.Json.dll
+C:\Projekty\C#\FileClealer\FileClealer\bin\Release\Newtonsoft.Json.xml
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.AssemblyReference.cache
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.FormAddItem.resources
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.FormDesktop.resources
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.Properties.Resources.resources
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.GenerateResource.cache
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CoreCompileInputs.cache
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CopyComplete
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.exe
+C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.pdb

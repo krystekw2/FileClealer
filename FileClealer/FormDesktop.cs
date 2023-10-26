@@ -141,8 +141,7 @@ namespace FileClealer
             catch (Exception ex)
             {
                 MessageBox.Show($"Coś nie tak. Podeślij mię to info: \n {ex}", "Coś nie działa!");
-            }
-
+            } 
         }
     }
 }
