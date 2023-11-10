@@ -12,3 +12,17 @@ C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CoreCompil
 C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CopyComplete
 C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.exe
 C:\Projekty\C#\FileClealer\FileClealer\obj\Release\FileClealer.pdb
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\bin\Release\FileClealer.exe.config
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\bin\Release\FileClealer.exe
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\bin\Release\FileClealer.pdb
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\bin\Release\Newtonsoft.Json.dll
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\bin\Release\Newtonsoft.Json.xml
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.csproj.AssemblyReference.cache
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.FormAddItem.resources
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.FormDesktop.resources
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.Properties.Resources.resources
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.csproj.GenerateResource.cache
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CoreCompileInputs.cache
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.csproj.CopyComplete
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.exe
+C:\Users\walec\OneDrive\Dokumenty\GitHub\FileClealer\FileClealer\obj\Release\FileClealer.pdb
